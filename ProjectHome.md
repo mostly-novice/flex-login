@@ -1,0 +1,1 @@
+This project will help to facilitate my use of PHP, Adobe Flash, and Adobe Flex. All three are technologies that I currently am very unfamiliar with; but with an arsenal of eBooks I plan to change that with this project.
